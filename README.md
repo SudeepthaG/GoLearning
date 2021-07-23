@@ -7,4 +7,5 @@ The folders and files in this repository contains my implementations, experiment
 
 Feel free to clone this package, comment and uncomment different parts to understand Go better.
 
-You can implement different functions in different packages through the main.go file by using the command: go run main.go
+You can implement different functions in different packages through the main.go file by using the command: 
+go run main.go
