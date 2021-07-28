@@ -1,6 +1,6 @@
 package main
 
-import firstclassfunctions "github.com/SudeepthaG/golearn/FirstClassFunctions"
+import filehandling "github.com/SudeepthaG/golearn/FileHandling"
 
 // pointersstructsmethods "github.com/SudeepthaG/golearn/PointersStructsMethods"
 // mapsstrings "github.com/SudeepthaG/golearn/MapsStrings"
@@ -36,6 +36,8 @@ func main() {
 	// errorhandling.ErrorBasicsPractice()
 	// errorhandling.CustomErrorsPractice()
 	// errorhandling.PanicRecoveryPractice()
-	firstclassfunctions.FistClassFunctionsPractice()
+	// firstclassfunctions.FistClassFunctionsPractice()
 
+	// filehandling.ReadingFilesPractice()
+	filehandling.WritingFileSPractice()
 }
