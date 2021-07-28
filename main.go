@@ -1,13 +1,11 @@
 package main
 
-import (
-	"fmt"
+import firstclassfunctions "github.com/SudeepthaG/golearn/FirstClassFunctions"
 
-	pointersstructsmethods "github.com/SudeepthaG/golearn/PointersStructsMethods"
-	// mapsstrings "github.com/SudeepthaG/golearn/MapsStrings"
-	// helloworld "github.com/SudeepthaG/golearn/HelloWorld"
-	// variablesconstantstypes "github.com/SudeepthaG/golearn/VariablesConstantsTypes"
-)
+// pointersstructsmethods "github.com/SudeepthaG/golearn/PointersStructsMethods"
+// mapsstrings "github.com/SudeepthaG/golearn/MapsStrings"
+// helloworld "github.com/SudeepthaG/golearn/HelloWorld"
+// variablesconstantstypes "github.com/SudeepthaG/golearn/VariablesConstantsTypes"
 
 func main() {
 
@@ -33,6 +31,11 @@ func main() {
 	// fmt.Println("Maker:", spec.Maker)
 	// fmt.Println("Price:", spec.Price)
 
-	fmt.Println(pointersstructsmethods.MethodsPractice())
+	// fmt.Println(pointersstructsmethods.MethodsPractice())
+	// errorhandling.DeferPractice()
+	// errorhandling.ErrorBasicsPractice()
+	// errorhandling.CustomErrorsPractice()
+	// errorhandling.PanicRecoveryPractice()
+	firstclassfunctions.FistClassFunctionsPractice()
 
 }
