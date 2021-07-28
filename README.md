@@ -2,7 +2,7 @@
 
 This repository stores my learning journey with Go.
 
-I have utilized this tutorial: https://golangbot.com/learn-golang-series/ for learning Go. 
+I have mainly utilized this tutorial: https://golangbot.com/learn-golang-series/ for learning Go. 
 
 The folders and files in this repository contains 
 1. my implementations based on above tutorial,
