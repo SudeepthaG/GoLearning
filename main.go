@@ -1,6 +1,8 @@
 package main
 
-import filehandling "github.com/SudeepthaG/golearn/FileHandling"
+import (
+	reflectionpractice "github.com/SudeepthaG/golearn/ReflectionPractice"
+)
 
 // pointersstructsmethods "github.com/SudeepthaG/golearn/PointersStructsMethods"
 // mapsstrings "github.com/SudeepthaG/golearn/MapsStrings"
@@ -39,5 +41,6 @@ func main() {
 	// firstclassfunctions.FistClassFunctionsPractice()
 
 	// filehandling.ReadingFilesPractice()
-	filehandling.WritingFileSPractice()
+	// filehandling.WritingFileSPractice()
+	reflectionpractice.ReflectionPractice()
 }
