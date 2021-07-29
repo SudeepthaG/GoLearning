@@ -1,7 +1,7 @@
 package main
 
 import (
-	reflectionpractice "github.com/SudeepthaG/golearn/ReflectionPractice"
+	interfaces "github.com/SudeepthaG/golearn/Interfaces"
 )
 
 // pointersstructsmethods "github.com/SudeepthaG/golearn/PointersStructsMethods"
@@ -42,5 +42,7 @@ func main() {
 
 	// filehandling.ReadingFilesPractice()
 	// filehandling.WritingFileSPractice()
-	reflectionpractice.ReflectionPractice()
+	// reflectionpractice.ReflectionPractice()
+	// interfaces.InterfacesPractice()
+	interfaces.InterFacesContinuePractice()
 }
