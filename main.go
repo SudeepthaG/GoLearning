@@ -1,8 +1,6 @@
 package main
 
-import (
-	interfaces "github.com/SudeepthaG/golearn/Interfaces"
-)
+import concurrency "github.com/SudeepthaG/golearn/Concurrency"
 
 // pointersstructsmethods "github.com/SudeepthaG/golearn/PointersStructsMethods"
 // mapsstrings "github.com/SudeepthaG/golearn/MapsStrings"
@@ -44,5 +42,12 @@ func main() {
 	// filehandling.WritingFileSPractice()
 	// reflectionpractice.ReflectionPractice()
 	// interfaces.InterfacesPractice()
-	interfaces.InterFacesContinuePractice()
+	// interfaces.InterFacesContinuePractice()
+	// concurrency.GoroutinesBasics()
+	// concurrency.ChannelsBasics()
+	// concurrency.BufferedChannelsBasics()
+	concurrency.WaitGroupWorkerPoolBasics()
+	// concurrency.SelectBasics()
+	// concurrency.MutexBasics()
+
 }
